@@ -1,6 +1,5 @@
 # Quantitative analysis of cultural trait development - Evaluating Cultural Transmission in Bronze Age burial rites of Central, Northern and North-western Europe using radiocarbon data
 
-## Abstract
 European Bronze age archaeology traditionally focusses on two major dimensions to categorise burials - although there's an immense variability of attendant phenomena within this spectrum: Flat graves versus burial mounds and cremation versus inhumation. These traits are an indispensable ingredient for common narratives of sociocultural interaction and cultural evolution in the Bronze age. 
 
 Burial rites are extraordinary cultural traits: Following Dunnell's distinction between function and style based on relevance for survival, they can be handled as neutral variants. As demonstrated by Neiman, drift and intergroup transmission as opposed to natural selection should therefore be the decisive processes for their expansion. On the other hand funerals touch upon personal loss and profound religious beliefs: They are not short-lived fashion and most probably well interlinked with other - many archaeologically inaccessible - traits. 
