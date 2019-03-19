@@ -9,6 +9,11 @@ This talk presents a quantitative time series reconstruction of the general tren
 
 Despite the relatively small amount of input data the trend reconstruction fits to established archaeological observations for prehistoric Europe. A comparison of cultural and spatial distance though leads to the remarkable result of no significant permanent correlation, which indicates that the spread of the relevant aspects of burial traditions can not be explained with simple diffusion models. 
 
+<p float="left", align="center">
+  <img src="/map_graves.jpeg" width="32%" />
+  <img src="/relative_development_burial_type.jpeg" width="30%" /> 
+</p>
+
 ***
 
 Dunnell, Robert C., ‘Style and Function: A Fundamental Dichotomy’, American Antiquity, 43 (1978), 192–202 https://doi.org/10.2307/279244
