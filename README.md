@@ -1,3 +1,5 @@
+*This presentation is a modified and updated version of [the one](https://github.com/nevrome/cultrans.bronzeageburials.ccs2018) given at the CCS2018 conference in Thessaloniki (Greece) in the session Evolution of Cultural Complexity III by Sergi Valverde and Simon Carrignon on 2018/09/27.*
+
 # Quantitative analysis of cultural trait development – Evaluating Cultural Transmission in Bronze Age burial rites of Central, Northern and North-western Europe using radiocarbon data
 
 European Bronze Age archaeology traditionally focusses on two major dimensions to categorise burials - although there's an immense variability of attendant phenomena within this spectrum: Flat graves versus burial mounds and cremation versus inhumation. These traits are an indispensable ingredient for common narratives of sociocultural interaction and cultural evolution in the Bronze Age. 
