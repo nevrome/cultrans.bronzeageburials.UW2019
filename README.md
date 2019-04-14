@@ -2,7 +2,7 @@
 
 European Bronze Age archaeology traditionally focusses on two major dimensions to categorise burials - although there's an immense variability of attendant phenomena within this spectrum: Flat graves versus burial mounds and cremation versus inhumation. These traits are an indispensable ingredient for common narratives of sociocultural interaction and cultural evolution in the Bronze Age. 
 
-Burial rites are extraordinary cultural traits: Following Dunnell's distinction between function and style based on relevance for survival, they can be handled as neutral variants. As demonstrated by Neiman, drift and intergroup transmission as opposed to natural selection should therefore be the decisive processes for their expansion. On the other hand funerals touch upon personal loss and profound religious beliefs: They are not short-lived fashion and most probably well interlinked with other – many archaeologically inaccessible – traits. 
+Burial rites are extraordinary cultural traits: If one applies a distinction between function and style based on relevance for survival, they can be handled as neutral variants. As demonstrated by Neiman, drift and intergroup transmission as opposed to natural selection should therefore be the decisive processes for their expansion. On the other hand funerals touch upon personal loss and profound religious beliefs: They are not short-lived fashion and most probably well interlinked with other – many archaeologically inaccessible – traits. 
 
 This talk presents a quantitative time series reconstruction of the distribution of Bronze Age burial traditions based on bulk radiocarbon data from the RADON-B dataset. The latter contains more than two thousand radiocarbon dates sampled from graves in Central, Northern and North-western Europe. The resulting macro-regional time series of trait prevalence can be employed to calculate further time series of cultural distance. 
 
@@ -14,8 +14,6 @@ Despite the relatively small amount of input data the trend reconstruction fits 
 </p>
 
 ***
-
-Dunnell, Robert C., ‘Style and Function: A Fundamental Dichotomy’, American Antiquity, 43 (1978), 192–202 https://doi.org/10.2307/279244
 
 Neiman, Fraser D., ‘Stylistic Variation in Evolutionary Perspective: Inferences from Decorative Diversity and Interassemblage Distance in Illinois Woodland Ceramic Assemblages’, American Antiquity, 60 (1995), 7–36 https://doi.org/10.2307/282074
 
