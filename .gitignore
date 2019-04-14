@@ -34,3 +34,13 @@ vignettes/*.pdf
 
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
+.Rproj.user
+
+# rendered results
+presentation.tex
+
+# logfiles
+*.log
+
+# foreign image sources that should not be shared
+figures/niels_bach_pyre.jpg
