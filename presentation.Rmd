@@ -41,7 +41,7 @@ knitr::opts_chunk$set(echo = TRUE, cache = TRUE)
 
 # Introduction
 
-## Data
+## Radiocarbon Dates on Graves
 
 ![Radon-B ^14^C dates of graves 2200-800 calBC (Albers Equal Area Conic).](figures/general_map.jpeg){ height=85% }
 
@@ -82,7 +82,16 @@ knitr::opts_chunk$set(echo = TRUE, cache = TRUE)
     \end{minipage}}%
 \end{textblock*}
 
-## Research Area and Regions
+## Dates on Graves through Time
+
+\begin{adjustwidth}{-3em}{-3em}
+  \begin{figure}
+    \includegraphics{figures/general_map_research_area_timeslices.jpeg}
+    \caption{Plot matrix of radiocarbon dates on graves through time in the research area.}
+  \end{figure}
+\end{adjustwidth}
+
+## Artificial Macro-Regions
 
 ![Artificial Regions: 400km distance, 240km radius, >= 70 dates.](figures/general_map_research_area_regions.jpeg){ height=85% }
 
@@ -324,7 +333,9 @@ The **Squared Euclidian Distance** is a a simple **measure of between-group simi
     \end{minipage}}%
 \end{textblock*}
 
-#
+## Distance Correlation Overview
+
+![**burial construction**: Mean SED for each region relationship.](figures/correlation_time_series.jpeg){ height=85% }
 
 # Simulation
 
