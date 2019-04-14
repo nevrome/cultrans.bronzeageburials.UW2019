@@ -1,9 +1,8 @@
 ---
-title: "A computational Cultural Transmission model of Bronze Age burial rites in Central, Northern and North-western Europe"
-subtitle: Observations on spatial and cultural distance
+title: "Quantitative analysis of cultural trait development"
+subtitle: Evaluating Cultural Transmission in Bronze Age burial rites of Central, Northern and North-western Europe using radiocarbon data
 author: "Clemens Schmid"
-date: "27/09/2018"
-institute: Institute of Pre- and Protohistoric Archaeology, Kiel University
+date: "2019/04/16"
 fontsize: 9pt
 output:
   beamer_presentation:
@@ -37,7 +36,7 @@ knitr::opts_chunk$set(echo = TRUE, cache = TRUE)
 
 - Cultural and Spatial Distance
 
-- Simulation
+- Simulating Cultural Transmission
 
 
 # Introduction
@@ -52,7 +51,7 @@ knitr::opts_chunk$set(echo = TRUE, cache = TRUE)
   \noindent\fbox{%
     \begin{minipage}{\linewidth - 2\fboxsep - 2\fboxrule}%
       \raggedright\footnotesize\color{white}
-      \textbf{Radon-B:} Database of \textsuperscript{14}C dates for the european Bronze Age
+      \textbf{Radon-B:} Database of \textsuperscript{14}C dates for the European Bronze Age
     \end{minipage}}%
 \end{textblock*}
 
