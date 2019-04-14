@@ -169,7 +169,7 @@ The **Squared Euclidian Distance** is a a simple **measure of between-group simi
 
 ## Region-Region Distance Matrix
 
-![**burial type**: SED for each region relationship. Approximated with LOESS.](figures/regions_regions_squared_euclidian_distance_burial_type.jpeg){ height=85% }
+![SED timeseries for each region relationship. Approximated with LOESS. **burial type** on top, **burial construction** in the bottom left corner.](figures/regions_regions_squared_euclidian_distance.jpeg){ height=85% }
 
 \begin{textblock*}{65pt}(5pt,40pt)
   \textblockcolour{niceorange}
@@ -181,16 +181,27 @@ The **Squared Euclidian Distance** is a a simple **measure of between-group simi
     \end{minipage}}%
 \end{textblock*}
 
+\begin{textblock*}{65pt}(5pt,150pt)
+  \setlength\fboxrule{2pt}%
+  \noindent\fbox{%
+    \begin{minipage}{\linewidth - 2\fboxsep - 2\fboxrule}%
+      \raggedright\footnotesize\color{white}
+      \textbf{burial construction}:
+      Heterogeneous distance development
+    \end{minipage}}%
+\end{textblock*}
+
 \begin{textblock*}{65pt}(295pt,40pt)
   \setlength\fboxrule{2pt}%
   \noindent\fbox{%
     \begin{minipage}{\linewidth - 2\fboxsep - 2\fboxrule}%
       \raggedright\footnotesize\color{white}
+      \textbf{burial type}:
       Low distance at the start and end due to the \textbf{universal shift from inhumation to cremation} with rise of the \textbf{Urnfield culture}
     \end{minipage}}%
 \end{textblock*}
 
-\begin{textblock*}{65pt}(295pt,125pt)
+\begin{textblock*}{65pt}(295pt,140pt)
   \setlength\fboxrule{2pt}%
   \noindent\fbox{%
     \begin{minipage}{\linewidth - 2\fboxsep - 2\fboxrule}%
@@ -198,8 +209,6 @@ The **Squared Euclidian Distance** is a a simple **measure of between-group simi
       The different \textbf{adoption rates} are visible as \textbf{peaks of cultural distance}
     \end{minipage}}%
 \end{textblock*}
-
-<!--
 
 ## Mean Region-Region Distance Matrix
 
@@ -226,8 +235,6 @@ The **Squared Euclidian Distance** is a a simple **measure of between-group simi
       Northwestern European Cluster?
     \end{minipage}}%
 \end{textblock*}
-
--->
 
 ## Parallel Developments?
 
