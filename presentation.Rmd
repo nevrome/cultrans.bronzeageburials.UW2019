@@ -372,7 +372,7 @@ The **Squared Euclidian Distance** is a a simple **measure of between-group simi
 
 ## Preliminary Considerations
 
-Funeral rituals are **behaviour/ideas/cultural traits** and spread in space and time. They exist in **social space** and their spread depends on **social relationships*.
+Funeral rituals are **behaviour/ideas/cultural traits** and spread in space and time. They exist in **social space** and their spread depends on **social relationships**.
 
 \usebeamertemplate*{title separator}
 
