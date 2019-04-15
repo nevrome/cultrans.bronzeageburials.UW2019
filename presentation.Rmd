@@ -190,7 +190,7 @@ The **Squared Euclidian Distance** is a a simple **measure of between-group simi
     \end{minipage}}%
 \end{textblock*}
 
-\begin{textblock*}{65pt}(5pt,150pt)
+\begin{textblock*}{65pt}(5pt,140pt)
   \setlength\fboxrule{2pt}%
   \noindent\fbox{%
     \begin{minipage}{\linewidth - 2\fboxsep - 2\fboxrule}%
@@ -333,15 +333,48 @@ The **Squared Euclidian Distance** is a a simple **measure of between-group simi
     \end{minipage}}%
 \end{textblock*}
 
-## Distance Correlation Overview
+# Distance Correlation Summary
 
-![**burial construction**: Mean SED for each region relationship.](figures/correlation_time_series.jpeg){ height=85% }
+## Time series of Distance Correlation
+
+![Time series of cultural and spatial distance correlation.](figures/correlation_time_series.jpeg){ height=85% }
+
+\begin{textblock*}{50pt}(10pt,40pt)
+  \setlength\fboxrule{2pt}%
+  \noindent\fbox{%
+    \begin{minipage}{\linewidth - 2\fboxsep - 2\fboxrule}%
+      \raggedright\footnotesize\color{white}
+      \textbf{A:} Weak correlation in the EBA, negative 
+      correlation from the LBA
+    \end{minipage}}%
+\end{textblock*}
+
+\begin{textblock*}{50pt}(10pt,120pt)
+  \setlength\fboxrule{2pt}%
+  \noindent\fbox{%
+    \begin{minipage}{\linewidth - 2\fboxsep - 2\fboxrule}%
+      \raggedright\footnotesize\color{white}
+      \textbf{B:} Slightly stronger correlation in the EBA, no
+      correlation in the LBA 
+    \end{minipage}}%
+\end{textblock*}
+
+\begin{textblock*}{50pt}(305pt,40pt)
+  \setlength\fboxrule{2pt}%
+  \noindent\fbox{%
+    \begin{minipage}{\linewidth - 2\fboxsep - 2\fboxrule}%
+      \raggedright\footnotesize\color{white}
+      \textbf{C\&D:} No significant correlation 
+    \end{minipage}}%
+\end{textblock*}
 
 # Simulation
 
 ## Preliminary Considerations
 
-Funeral rituals are **behaviour/ideas/cultural traits** and spread in space and time. They exist in **social space** and their spread depends on social relationships.
+Funeral rituals are **behaviour/ideas/cultural traits** and spread in space and time. They exist in **social space** and their spread depends on **social relationships*.
+
+\usebeamertemplate*{title separator}
 
 Funeral rituals are a special category of ideas: They have a relatively low interaction with the human-environment system and can be treated as **selectively neutral**.
 
@@ -368,7 +401,7 @@ Simulation concept:
   \noindent\fbox{%
     \begin{minipage}{\linewidth - 2\fboxsep - 2\fboxrule}%
       \footnotesize\raggedright\color{white}
-      \textbf{R Package} to create undirected population networks with configurable \textbf{population size development}, \textbf{number of groups}, \textbf{degree of intra- and intergroup transmission}, etc.
+      \textbf{R Package popgenerator} to create undirected population networks with configurable \textbf{population size development}, \textbf{number of groups}, \textbf{degree of intra- and intergroup transmission}, etc.
     \end{minipage}}%
 \end{textblock*}
 
@@ -422,7 +455,7 @@ Simulation concept:
   \noindent\fbox{%
     \begin{minipage}{\linewidth - 2\fboxsep - 2\fboxrule}%
       \footnotesize\raggedright\color{white}
-      \textbf{C++ CLI program} to simulate idea expansion within the population network
+      \textbf{C++ CLI program gluesless} to simulate idea expansion within the population network
     \end{minipage}}%
 \end{textblock*}
 
@@ -544,15 +577,15 @@ Simulation concept:
 
 ## Observations and Hypotheses
 
-- The diffusion of the **cremation funeral tradition** and **traditions of flat vs. mound graves** are **independent**.
+- The **main trends** in the distribution of burial rites in Bronze Age Europe **can be detected** in **bulk radiocarbon data**
 
-- Both processes are **mostly independent** of **spatial distance**: Not a simple diffusion process!
+- The diffusion of the **cremation funeral tradition** and **traditions of flat vs. mound graves** are **mostly independent**
+
+- Both processes are **mostly independent** of **spatial distance**, except for some time periods in the Early Bronze Age
+
+- **Big phenomena** like the ones initiated by **Tumulus culture** and **Urnfield culture** do not spread in simple diffusion processes
 
 - **Other interaction networks** could yield better predictions: Elite Networks, Religious superstructures, ...
-
-\usebeamertemplate*{title separator}
-
-- **Sociocultural complexity** in the Bronze Age is generally **increasing**. Still the **homogeneity & heterogeneity** of certain cultural traits **vary greatly**.
 
 ##
 
