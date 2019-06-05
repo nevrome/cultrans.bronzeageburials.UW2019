@@ -41,11 +41,13 @@ knitr::opts_chunk$set(echo = TRUE, cache = TRUE)
 
 # Introduction
 
-## Radiocarbon Dates on Graves
+## Radiocarbon dates on graves
+
+\textblockcolour{mDarkTeal}
 
 ![Radon-B ^14^C dates of graves 2200-800 calBC (Albers Equal Area Conic).](figures/general_map.jpeg){ height=85% }
 
-\begin{textblock*}{65pt}(5pt,40pt)
+\begin{textblock*}{65pt}(290pt,40pt)
   \textblockcolour{niceorange}
   \setlength\fboxrule{2pt}%
   \noindent\fbox{%
@@ -55,7 +57,7 @@ knitr::opts_chunk$set(echo = TRUE, cache = TRUE)
     \end{minipage}}%
 \end{textblock*}
 
-\begin{textblock*}{65pt}(5pt,100pt)
+\begin{textblock*}{65pt}(290pt,100pt)
   \setlength\fboxrule{2pt}%
   \noindent\fbox{%
     \begin{minipage}{\linewidth - 2\fboxsep - 2\fboxrule}%
@@ -64,23 +66,13 @@ knitr::opts_chunk$set(echo = TRUE, cache = TRUE)
     \end{minipage}}%
 \end{textblock*}
 
-\begin{textblock*}{65pt}(295pt,40pt)
-  \setlength\fboxrule{2pt}%
-  \noindent\fbox{%
-    \begin{minipage}{\linewidth - 2\fboxsep - 2\fboxrule}%
-      \raggedright\footnotesize\color{white}
-      Context for dates from graves: \textbf{burial type} \& \textbf{burial construction}
-    \end{minipage}}%
+\textblockcolour{}
+
+\begin{textblock*}{65pt}(5pt,40pt)
+  \includegraphics{figures/burial_rites_clipart.jpg}
 \end{textblock*}
 
-\begin{textblock*}{65pt}(295pt,100pt)
-  \setlength\fboxrule{2pt}%
-  \noindent\fbox{%
-    \begin{minipage}{\linewidth - 2\fboxsep - 2\fboxrule}%
-      \raggedright\footnotesize\color{white}
-      Heterogeneous \textbf{information density} in space and time
-    \end{minipage}}%
-\end{textblock*}
+\textblockcolour{mDarkTeal}
 
 ## Dates on Graves through Time
 
