@@ -2,7 +2,7 @@
 title: "Quantitative analysis of cultural trait development"
 subtitle: Evaluating Cultural Transmission in Bronze Age burial rites of Central, Northern and North-western Europe using radiocarbon data
 author: "Clemens Schmid"
-date: "2019/04/16"
+date: "2019/06/05"
 fontsize: 9pt
 output:
   beamer_presentation:
