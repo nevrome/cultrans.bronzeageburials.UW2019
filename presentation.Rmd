@@ -79,9 +79,20 @@ knitr::opts_chunk$set(echo = TRUE, cache = TRUE)
 \begin{adjustwidth}{-3em}{-3em}
   \begin{figure}
     \includegraphics{figures/general_map_research_area_timeslices.jpeg}
-    \caption{Plot matrix of radiocarbon dates on graves through time in the research area.}
+    \caption{Plot matrix of radiocarbon dates on graves through time. \newline 
+    200 years time slices.
+    }
   \end{figure}
 \end{adjustwidth}
+
+\begin{textblock*}{65pt}(290pt,210pt)
+  \setlength\fboxrule{2pt}%
+  \noindent\fbox{%
+    \begin{minipage}{\linewidth - 2\fboxsep - 2\fboxrule}%
+      \raggedright\footnotesize\color{white}
+      Heterogeneous \textbf{information density} in space and time
+    \end{minipage}}%
+\end{textblock*}
 
 ## Artificial Macro-Regions
 
@@ -152,9 +163,9 @@ knitr::opts_chunk$set(echo = TRUE, cache = TRUE)
 
 # Cultural Distance
 
-## Squared Euclidian Distance (SED)
+## Measuring cultural distance
 
-**Question:** How do the developments in these regions for **burial type** and **burial construction** relate to each other? Which regions behave alike?
+How do the developments in these regions for **burial type** and **burial construction** relate to each other? Which regions behave alike? Can we measure spatial **interaction intensity**?
 
 \usebeamertemplate*{title separator}
 
@@ -182,7 +193,8 @@ The **Squared Euclidian Distance** is a a simple **measure of between-group simi
     \end{minipage}}%
 \end{textblock*}
 
-\begin{textblock*}{65pt}(5pt,140pt)
+\begin{textblock*}{65pt}(5pt,170pt)
+  \textblockcolour{burialconstruction}
   \setlength\fboxrule{2pt}%
   \noindent\fbox{%
     \begin{minipage}{\linewidth - 2\fboxsep - 2\fboxrule}%
@@ -193,16 +205,18 @@ The **Squared Euclidian Distance** is a a simple **measure of between-group simi
 \end{textblock*}
 
 \begin{textblock*}{65pt}(295pt,40pt)
+  \textblockcolour{burialtype}
   \setlength\fboxrule{2pt}%
   \noindent\fbox{%
     \begin{minipage}{\linewidth - 2\fboxsep - 2\fboxrule}%
       \raggedright\footnotesize\color{white}
-      \textbf{burial type}:
-      Low distance at the start and end due to the \textbf{universal shift from inhumation to cremation} with rise of the \textbf{Urnfield culture}
+      \textbf{burial type}: \newline
+      Low distance at the start and end due to the \textbf{universal shift from inhumation to cremation} (Urnfield culture)
     \end{minipage}}%
 \end{textblock*}
 
-\begin{textblock*}{65pt}(295pt,140pt)
+\begin{textblock*}{65pt}(295pt,130pt)
+  \textblockcolour{burialtype}
   \setlength\fboxrule{2pt}%
   \noindent\fbox{%
     \begin{minipage}{\linewidth - 2\fboxsep - 2\fboxrule}%
@@ -327,36 +341,45 @@ The **Squared Euclidian Distance** is a a simple **measure of between-group simi
 
 # Distance Correlation Summary
 
-## Time series of Distance Correlation
+## The complete distance network: Correlation of cultural and spatial distance
 
-![Time series of cultural and spatial distance correlation.](figures/correlation_time_series.jpeg){ height=85% }
+![Time series of cultural and spatial distance correlation. 200 years time slots. Mantel statistics with Pearson correlation coefficient and Spearman's rank correlation.](figures/correlation_time_series.jpeg){ height=85% }
 
-\begin{textblock*}{50pt}(10pt,40pt)
+\textblockcolour{burialtype}
+
+\begin{textblock*}{70pt}(285pt,40pt)
   \setlength\fboxrule{2pt}%
   \noindent\fbox{%
     \begin{minipage}{\linewidth - 2\fboxsep - 2\fboxrule}%
       \raggedright\footnotesize\color{white}
-      \textbf{A:} Weak correlation in the EBA, negative 
-      correlation from the LBA
+      \textbf{A:} burial type \& spatial distance \newline \newline
+      Weak correlation in the EBA, negative 
+      correlation from the MBA
     \end{minipage}}%
 \end{textblock*}
 
-\begin{textblock*}{50pt}(10pt,120pt)
+\textblockcolour{burialconstruction}
+
+\begin{textblock*}{70pt}(10pt,130pt)
   \setlength\fboxrule{2pt}%
   \noindent\fbox{%
     \begin{minipage}{\linewidth - 2\fboxsep - 2\fboxrule}%
       \raggedright\footnotesize\color{white}
-      \textbf{B:} Slightly stronger correlation in the EBA, no
+      \textbf{B:} burial construction \& spatial distance \newline \newline
+      Weak correlation in the EBA, no
       correlation in the LBA 
     \end{minipage}}%
 \end{textblock*}
 
-\begin{textblock*}{50pt}(305pt,40pt)
+\textblockcolour{mDarkTeal}
+
+\begin{textblock*}{70pt}(10pt,40pt)
   \setlength\fboxrule{2pt}%
   \noindent\fbox{%
     \begin{minipage}{\linewidth - 2\fboxsep - 2\fboxrule}%
       \raggedright\footnotesize\color{white}
-      \textbf{C\&D:} No significant correlation 
+      \textbf{C\&D:} burial type \& burial construction distance \newline \newline
+      No significant correlation 
     \end{minipage}}%
 \end{textblock*}
 
