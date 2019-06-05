@@ -4,7 +4,7 @@
 
 **v 1.1**
 
-*I was spontaneously asked to give this presentation one more time at the archaeological institute of Bern University (Switzerland) and had some time to include some nice visual features of [the version](https://github.com/nevrome/cultrans.bronzeageburials.NASHH2019) presented in Jena.*
+*I was spontaneously asked to give this presentation one more time at the archaeological institute of Bern University (Switzerland) and had some time to include some nice visual features of [the version](https://github.com/nevrome/cultrans.bronzeageburials.NASHH2019) presented in Jena and the article manuscript [here](https://github.com/nevrome/cultrans.bronzeageburials.article2019).*
 
 # Quantitative analysis of cultural trait development – Evaluating Cultural Transmission in Bronze Age burial rites of Central, Northern and North-western Europe using radiocarbon data
 
