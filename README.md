@@ -1,4 +1,10 @@
+**v 1.0**
+
 *This presentation was prepared for the archaeological data science seminar at the University of Washington 2019/04/16. It is a modified and updated version of [the one](https://github.com/nevrome/cultrans.bronzeageburials.ccs2018) given at the CCS2018 conference in Thessaloniki (Greece) in the session Evolution of Cultural Complexity III by Sergi Valverde and Simon Carrignon 2018/09/27.*
+
+**v 1.1**
+
+*I was spontaneously asked to give this presentation one more time at the archaeological institute of Bern University (Switzerland) and had some time to include some nice visual features of [the version](https://github.com/nevrome/cultrans.bronzeageburials.NASHH2019) presented in Jena.
 
 # Quantitative analysis of cultural trait development – Evaluating Cultural Transmission in Bronze Age burial rites of Central, Northern and North-western Europe using radiocarbon data
 
